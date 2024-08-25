@@ -27,6 +27,10 @@ It can be used lightly in everyday life as if it were a Pokémon!<br>
 
 - Youtube: https://www.youtube.com/watch?v=ffuGBZAv2tM
 
+<br>
+<br>
+<br>
+
 ### [FE] Get Started
 #### build
 ```
@@ -38,8 +42,30 @@ yarn build
 yarn start
 ```
 
+<br>
+<br>
+
 ### [SERVER] Get Started
+#### Build
+```
+gradlew build
+gradlew jar
+```
+#### Run
+```
+java -jar ${jarFileName}.jar
+```
+<br>
+<br>
 
 ### [APP] Get Started
+#### Local Run with Expo Go
+```
+yarn start
+```
 
+#### Expo App Build
+```
+eas build -p android --profile preview
+```
 
