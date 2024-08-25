@@ -34,6 +34,7 @@ It can be used lightly in everyday life as if it were a Pokémon!<br>
 ### [FE] Get Started
 #### build
 ```
+yarn install
 yarn build
 ```
 
@@ -61,6 +62,7 @@ java -jar ${jarFileName}.jar
 ### [APP (For Android)] Get Started
 #### Local Run with Expo Go
 ```
+yarn install
 yarn start
 ```
 
