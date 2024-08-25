@@ -2,6 +2,8 @@
 
 ### What is GC
 With location-based services, "The area I live in" gets clean.
+<img width="356" alt="스크린샷 2024-08-25 오전 11 12 19" src="https://github.com/user-attachments/assets/8df54bf5-c911-4453-949d-573f49ed2523"><img width="356" alt="스크린샷 2024-08-25 오전 11 18 56" src="https://github.com/user-attachments/assets/7ff0dcd0-e40c-4c46-8b2c-3d40f7bbeb2d">
+<br>With location-based services, "The area I live in" gets clean.
 
 ### Why People Use GC
 The experience of being free from environmental pollution shows that environmental improvement is not difficult.<br>
@@ -15,6 +17,9 @@ It can be used lightly in everyday life as if it were a Pokémon!<br>
 - Jeongeun Lee (sweetzhzh@gmail.com)
 - Seungjoo Jeong (lovelyyy902@gmail.com)
 - Siyoon Jung (siyoon.syj@gmail.com)
+
+### Contact
+[Issue](https://github.com/monorisk/angelhack2024-seoul-n4/issues)
 
 
 ## Link
