@@ -11,10 +11,10 @@ It is cute and fun service.<br>
 It can be used lightly in everyday life as if it were a Pokémon!<br>
 
 ### Maintainer
-- monorisk@gmail.com
-- sweetzhzh@gmail.com
-- lovelyyy902@gmail.com
-- siyoon.syj@gmail.com
+- Sunghoon Park (monorisk@gmail.com)
+- Jeongeun Lee (sweetzhzh@gmail.com)
+- Seungjoo Jeong (lovelyyy902@gmail.com)
+- Siyoon Jung (siyoon.syj@gmail.com)
 
 
 ## Link
