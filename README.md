@@ -58,7 +58,7 @@ java -jar ${jarFileName}.jar
 <br>
 <br>
 
-### [APP] Get Started
+### [APP (For Android)] Get Started
 #### Local Run with Expo Go
 ```
 yarn start
@@ -69,3 +69,12 @@ yarn start
 eas build -p android --profile preview
 ```
 
+<br>
+<br>
+<br>
+
+## Test Guide
+1. Build the FE
+2. Input results files of #1 to the SERVER project. (/resources/static/)
+3. Build and execute the SERVER
+4. Build the APP & install on your Android Device
